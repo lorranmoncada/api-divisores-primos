@@ -1,0 +1,8 @@
+C:\fatoresPrimos\FatoresPrimos\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\fatoresPrimos\FatoresPrimos\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\fatoresPrimos\FatoresPrimos\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\fatoresPrimos\FatoresPrimos\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\fatoresPrimos\FatoresPrimos\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\fatoresPrimos\FatoresPrimos\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\fatoresPrimos\FatoresPrimos\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\fatoresPrimos\FatoresPrimos\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

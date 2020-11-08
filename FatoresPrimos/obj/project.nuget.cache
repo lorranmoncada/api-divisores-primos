@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCfT5wYDBJzObRLoS28KUEQI0UCobUN+5H6mmK4I1t6KXTvVPOmyPvCgb9cxNZKz0LIbkIp2D3q8GhJHoBTCag==",
+  "success": true,
+  "projectFilePath": "C:\\fatoresPrimos\\FatoresPrimos\\FatoresPrimos\\FatoresPrimos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

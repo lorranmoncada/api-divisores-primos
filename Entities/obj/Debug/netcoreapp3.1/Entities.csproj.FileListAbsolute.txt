@@ -1,0 +1,12 @@
+C:\fatoresPrimos\FatoresPrimos\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\fatoresPrimos\FatoresPrimos\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\fatoresPrimos\FatoresPrimos\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\fatoresPrimos\FatoresPrimos\Entities\bin\Debug\netcoreapp3.1\Domain.dll
+C:\fatoresPrimos\FatoresPrimos\Entities\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\fatoresPrimos\FatoresPrimos\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
